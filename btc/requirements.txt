@@ -1,0 +1,4 @@
+bitcoin 
+requests
+colorama
+tqdm

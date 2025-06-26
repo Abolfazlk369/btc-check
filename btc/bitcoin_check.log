@@ -1,0 +1,92 @@
+2025-06-26 11:55:23,106 - ERROR - Error checking balance for address 1GNxadxJQEningnhzSfNDD8kzVH7sQoTKM: 429
+2025-06-26 11:55:23,107 - ERROR - Error checking balance for address 14dYJoFS3gikDXiMFgJRCJN21w3eRd8vcW: 429
+2025-06-26 11:55:23,205 - INFO - Generated address: 1GNxadxJQEningnhzSfNDD8kzVH7sQoTKM with private key: ee7dd46b216baa27d825c8fda655a9635d7442fab355bf17896878e1ef2bcee4 and balance: 0.0 BTC
+2025-06-26 11:55:23,223 - INFO - Generated address: 14dYJoFS3gikDXiMFgJRCJN21w3eRd8vcW with private key: 7ed1a6768b8468f4870a28553737f3e9c2090bc7fe9986e23e6e23d8ccb36649 and balance: 0.0 BTC
+2025-06-26 11:55:23,275 - ERROR - Error checking balance for address 1GaCf6otnkbfRMbm7vgVnVLLW8CRasNxp6: 429
+2025-06-26 11:55:23,292 - ERROR - Error checking balance for address 1Eba2uu7dPSCXUhDQPshxnhdgh6rS1K5Vw: 429
+2025-06-26 11:55:23,298 - INFO - Generated address: 1GaCf6otnkbfRMbm7vgVnVLLW8CRasNxp6 with private key: 9bfde357abd07f0ff39282747930ace674f590e333e50cfdeda0e241726d9edc and balance: 0.0 BTC
+2025-06-26 11:55:23,298 - ERROR - Error checking balance for address 1Hqzmk6BqKMXCMnsTRVRP23nYPknCzDAWf: 429
+2025-06-26 11:55:23,310 - ERROR - Error checking balance for address 13ijGK5FickoMDaCHabYL7BNLdMMKwTBeM: 429
+2025-06-26 11:55:23,345 - INFO - Generated address: 1Eba2uu7dPSCXUhDQPshxnhdgh6rS1K5Vw with private key: 6abee27d2ca134c09af3cc47361f479ffadd9def035011efbcaf375312d9ecbf and balance: 0.0 BTC
+2025-06-26 11:55:23,368 - INFO - Generated address: 1Hqzmk6BqKMXCMnsTRVRP23nYPknCzDAWf with private key: e766be91ad7d814b88a247fbc73c29e9b399003df06716ded8e95af55982809b and balance: 0.0 BTC
+2025-06-26 11:55:23,380 - INFO - Generated address: 13ijGK5FickoMDaCHabYL7BNLdMMKwTBeM with private key: 498db34937e8b60cc3b3881a14f9d3ce71f2b0b770158be86da3afb1e1394c5a and balance: 0.0 BTC
+2025-06-26 11:55:24,816 - ERROR - Error checking balance for address 1Dffyvmp9Kb8jD1GNwn5na76ioWs4S51bC: 429
+2025-06-26 11:55:24,821 - ERROR - Error checking balance for address 1Ayk4H7BAP4izsMsM14ku6V7PikfmyNbhM: 429
+2025-06-26 11:55:24,823 - ERROR - Error checking balance for address 1B3D9mzmie5DjzPztEZSGFsLQL6G9TYkXL: 429
+2025-06-26 11:55:24,838 - ERROR - Error checking balance for address 1KgTM6AiApqJM9a9D1t6KocbG45RwXzyeg: 429
+2025-06-26 11:55:24,879 - INFO - Generated address: 1Ayk4H7BAP4izsMsM14ku6V7PikfmyNbhM with private key: ea87e585d430e0e0888cff87989a65e0d20235b4220b30b3f9c3b7e2f5ef40f6 and balance: 0.0 BTC
+2025-06-26 11:55:24,880 - INFO - Generated address: 1Dffyvmp9Kb8jD1GNwn5na76ioWs4S51bC with private key: 2c4ac24a4a58fae8877d396d808366c6ba3b21b18e94905ea62af54c7ad797d1 and balance: 0.0 BTC
+2025-06-26 11:55:24,892 - INFO - Generated address: 1KgTM6AiApqJM9a9D1t6KocbG45RwXzyeg with private key: 853d45e229b3ce910c652f69683bc3606bd640dba05ea0ea1340e98df5a233f1 and balance: 0.0 BTC
+2025-06-26 11:55:24,908 - INFO - Generated address: 1B3D9mzmie5DjzPztEZSGFsLQL6G9TYkXL with private key: a7d16c342424c506aa382c4e0d04650b33e886d3871e9d593c64b8dc81bb7530 and balance: 0.0 BTC
+2025-06-26 11:55:25,438 - ERROR - Error checking balance for address 1Ljqi6khRsdbxeweXg8zUY5GjQEbtYoZPR: 429
+2025-06-26 11:55:25,444 - ERROR - Error checking balance for address 1WGf1sP4UhDV4EMZNms7yUpBiPewDyeXv: 429
+2025-06-26 11:55:25,461 - INFO - Generated address: 1Ljqi6khRsdbxeweXg8zUY5GjQEbtYoZPR with private key: 0a77a6351ad512d4a71df6d7a6f03f719178a9ccab176ee46efdba9607a3525e and balance: 0.0 BTC
+2025-06-26 11:55:25,469 - INFO - Generated address: 1WGf1sP4UhDV4EMZNms7yUpBiPewDyeXv with private key: ebcb07aa491f415031e2a0433cceb971500ffc664483d18ebafa58ddf7e5708a and balance: 0.0 BTC
+2025-06-26 11:55:25,502 - ERROR - Error checking balance for address 16Q9NCPQfbybGrUuUcHZ9QzM8QWCffsepw: 429
+2025-06-26 11:55:25,503 - ERROR - Error checking balance for address 1KaqoAjZjRKVa2CrRUzmrppkKpoCtvFRgf: 429
+2025-06-26 11:55:25,505 - ERROR - Error checking balance for address 1NKvdw8ovgvAPwqMGRwPoBYYT8kWMgBTxW: 429
+2025-06-26 11:55:25,560 - INFO - Generated address: 16Q9NCPQfbybGrUuUcHZ9QzM8QWCffsepw with private key: d9cf679ecf605aae0f51de8d8ec28ea7f286b432469f46a72750bd91785dd8cb and balance: 0.0 BTC
+2025-06-26 11:55:25,621 - INFO - Generated address: 1KaqoAjZjRKVa2CrRUzmrppkKpoCtvFRgf with private key: 9388a783c1cc09b8afef891f674bcbb3382a1998c5ad9f71d2965869ee67c1cb and balance: 0.0 BTC
+2025-06-26 11:55:25,621 - INFO - Generated address: 1NKvdw8ovgvAPwqMGRwPoBYYT8kWMgBTxW with private key: dd332985bc3b3070cff4d7c765626b5de21c7cbcb94baba20c69b0c7130bda5a and balance: 0.0 BTC
+2025-06-26 11:55:27,646 - ERROR - Error checking balance for address 1MRneoD6sCwaJbhz2tivLcgS2pWTJQsqai: 429
+2025-06-26 11:55:27,649 - INFO - Generated address: 1MRneoD6sCwaJbhz2tivLcgS2pWTJQsqai with private key: 63baf9892b6d887ea5bdbf312c10386adea5ee5fcfe1700f7be15b6ffdbcbb66 and balance: 0.0 BTC
+2025-06-26 11:55:28,977 - ERROR - Error checking balance for address 19zRw7ntoMHMGysoYaVKLQyRvTPqHPrznx: 429
+2025-06-26 11:55:28,977 - ERROR - Error checking balance for address 19aw45kxxKbEGK66oMnf6u1PDqvRkg8Eke: 429
+2025-06-26 11:55:28,977 - ERROR - Error checking balance for address 1JcMMcWqUQVh4CxDwiBhGryoYu1nPa3fJ8: 429
+2025-06-26 11:55:28,979 - ERROR - Error checking balance for address 19JHnwUmPWD5CjQDmtdu2YnPwFCWHVZNsJ: 429
+2025-06-26 11:55:29,042 - INFO - Generated address: 19zRw7ntoMHMGysoYaVKLQyRvTPqHPrznx with private key: ac57b64630d410e4d35e059ab67303ec73e2689b9ec785d339a37ab2e6b2a50f and balance: 0.0 BTC
+2025-06-26 11:55:29,085 - INFO - Generated address: 19JHnwUmPWD5CjQDmtdu2YnPwFCWHVZNsJ with private key: 7d3204c102565c013f48f288abb8f65b62766fe9ef30f7b13a9faff51e2b8f93 and balance: 0.0 BTC
+2025-06-26 11:55:29,090 - INFO - Generated address: 19aw45kxxKbEGK66oMnf6u1PDqvRkg8Eke with private key: 32ab6539012bcc7dd7004712201503454f6422817824e58d3063c13243a28695 and balance: 0.0 BTC
+2025-06-26 11:55:29,110 - INFO - Generated address: 1JcMMcWqUQVh4CxDwiBhGryoYu1nPa3fJ8 with private key: e1e56237d2399572318596d87439872dd3d92a45c5cffd4380ea94435c039502 and balance: 0.0 BTC
+2025-06-26 11:55:29,553 - ERROR - Error checking balance for address 1FcN2cHYGPHfhbDmK8MpAMGwmJhyz5wejQ: 429
+2025-06-26 11:55:29,697 - INFO - Generated address: 1FcN2cHYGPHfhbDmK8MpAMGwmJhyz5wejQ with private key: 3200a61d6df113fff63dca86156663ca6ca06d4644c8f1524d4d0a769c80cc47 and balance: 0.0 BTC
+2025-06-26 11:55:29,973 - ERROR - Error checking balance for address 1GopyEyrRpmvgRybk3bDU17zvqXMMWTL1S: 429
+2025-06-26 11:55:30,057 - INFO - Generated address: 1GopyEyrRpmvgRybk3bDU17zvqXMMWTL1S with private key: f13e342e61673d3e4d7fe491e3e067cad507f2b8d9048a91523047b806ae06f5 and balance: 0.0 BTC
+2025-06-26 11:55:31,868 - ERROR - Error checking balance for address 1DkxVYZTNX6p3SoyttFBEiuXiX4C3s3vx: 429
+2025-06-26 11:55:31,875 - ERROR - Error checking balance for address 1LCkwXE3f74LkAwEACcqokuE95mer6bkSa: 429
+2025-06-26 11:55:31,939 - INFO - Generated address: 1LCkwXE3f74LkAwEACcqokuE95mer6bkSa with private key: 15ceecc0717f225ff09ffc0540b10bbad23844255819df48887d20a948dc8775 and balance: 0.0 BTC
+2025-06-26 11:55:31,963 - ERROR - Error checking balance for address 179Xes7vqYEhQnx2WDeVFXTwugezU8UT5L: 429
+2025-06-26 11:55:31,965 - INFO - Generated address: 1DkxVYZTNX6p3SoyttFBEiuXiX4C3s3vx with private key: 5308280a467603cb9d392d1bd82fe3f76500dcfb619301804008d46cbfde05af and balance: 0.0 BTC
+2025-06-26 11:55:31,976 - INFO - Generated address: 179Xes7vqYEhQnx2WDeVFXTwugezU8UT5L with private key: 1a44ee7f489f99d8435e83295a144a1113b31b721d6b6918bcfd8e29b3aab697 and balance: 0.0 BTC
+2025-06-26 11:55:32,114 - ERROR - Error checking balance for address 12zSM2L6bWfFUGMyvZTcZNP1iKU5pene8o: 429
+2025-06-26 11:55:32,133 - INFO - Generated address: 12zSM2L6bWfFUGMyvZTcZNP1iKU5pene8o with private key: b68e4bad86ffd75f887a29b706b0b804a3ad831818630b44172718381792d908 and balance: 0.0 BTC
+2025-06-26 11:55:32,561 - ERROR - Error checking balance for address 1DRs19fK9z373VmRDKCHcvqxDXh9jF4K16: 429
+2025-06-26 11:55:32,620 - INFO - Generated address: 1DRs19fK9z373VmRDKCHcvqxDXh9jF4K16 with private key: 3a889cbe0aa60b1891e7b2c0911feec150bb85b2390ebad2faa4d6bfd964bcf7 and balance: 0.0 BTC
+2025-06-26 11:55:33,713 - ERROR - Error checking balance for address 1LnthBY8PGxN8FBJKppYkZU6F16vnxDdVg: 429
+2025-06-26 11:55:35,267 - ERROR - Error checking balance for address 1Urh7MiYkywSovdnLijriNHJet5cf6N3o: 429
+2025-06-26 11:55:35,268 - INFO - Generated address: 1LnthBY8PGxN8FBJKppYkZU6F16vnxDdVg with private key: 881994a50397e778b0af25f760d899a7eaf9b19f1208744120ecc88baa980795 and balance: 0.0 BTC
+2025-06-26 11:55:35,304 - INFO - Generated address: 1Urh7MiYkywSovdnLijriNHJet5cf6N3o with private key: 248eb978de30a4f3bb2bf9c1fb2df342c30d557d1d0516d6cd977de9c5c8fbfc and balance: 0.0 BTC
+2025-06-26 11:55:35,567 - ERROR - Error checking balance for address 1AqWKTCx7sSnpQNoErrgM2nhThUWHXXcSe: 429
+2025-06-26 11:55:35,587 - INFO - Generated address: 1AqWKTCx7sSnpQNoErrgM2nhThUWHXXcSe with private key: 956bf4d4357368331ac4b725f0d527ae4b36f32d9519a21678940c92c1c30c8e and balance: 0.0 BTC
+2025-06-26 11:55:35,750 - ERROR - Error checking balance for address 1K2ZAyrHz539BmveLEToua3eHGpSABXRFv: 429
+2025-06-26 11:55:35,765 - ERROR - Error checking balance for address 19ytVaiZNhKGhscmpMuVYwc8552fueBKiM: 429
+2025-06-26 11:55:35,846 - INFO - Generated address: 1K2ZAyrHz539BmveLEToua3eHGpSABXRFv with private key: 311bf7e522d196395984e9c90665404e1cded8cbb21f617bf583123ae102a9ee and balance: 0.0 BTC
+2025-06-26 11:55:35,862 - INFO - Generated address: 19ytVaiZNhKGhscmpMuVYwc8552fueBKiM with private key: aa92109e15eb67d9e3db30f7e2916110a495db44518afedfc6e80507a8f9c5e7 and balance: 0.0 BTC
+2025-06-26 11:55:36,946 - ERROR - Error checking balance for address 1H7DkJYdGuy2N8uyNHB2B7S3VskWuiXyT5: 429
+2025-06-26 11:55:36,965 - INFO - Generated address: 1H7DkJYdGuy2N8uyNHB2B7S3VskWuiXyT5 with private key: 2e217bf99a1a5a7361aceab3ab3ff96d3ee4cf5ee0b4dcf02c92370641def04e and balance: 0.0 BTC
+2025-06-26 11:55:37,579 - ERROR - Error checking balance for address 146t85SMj8U3FtpapV7o4QmyVRv7bpxQ6o: 429
+2025-06-26 11:55:37,597 - INFO - Generated address: 146t85SMj8U3FtpapV7o4QmyVRv7bpxQ6o with private key: af367a807260ab59c9bf2760d2f314cb9a943b1df2360b792ab2f53125dee13b and balance: 0.0 BTC
+2025-06-26 11:55:40,691 - ERROR - Error checking balance for address 1NiEJatWiUzNjdwRbaU69xtoBVDVNwvJVY: 429
+2025-06-26 11:55:40,709 - INFO - Generated address: 1NiEJatWiUzNjdwRbaU69xtoBVDVNwvJVY with private key: b7f989ccd5ce45391d2079bb6c57ee032958314be5a777173c37f84ca7a52a97 and balance: 0.0 BTC
+2025-06-26 11:55:41,020 - ERROR - Error checking balance for address 1DpqVByrymb78E2UwE6U2P8LmKpg3Y26w5: 429
+2025-06-26 11:55:41,038 - INFO - Generated address: 1DpqVByrymb78E2UwE6U2P8LmKpg3Y26w5 with private key: bc450549053ab3a672d883d0b875f21d79143057a94ca5f352ca016376636210 and balance: 0.0 BTC
+2025-06-26 11:55:41,863 - ERROR - Error checking balance for address 1MxahhJMfotuAjyvCNoqJNS4QgsyPSct9U: 429
+2025-06-26 11:55:41,876 - INFO - Generated address: 1MxahhJMfotuAjyvCNoqJNS4QgsyPSct9U with private key: 7f0e85fb75f5f71bcaf1d08b9002c778819533b59e4de7ff679610aa0ecaa7fd and balance: 0.0 BTC
+2025-06-26 11:55:42,493 - ERROR - Error checking balance for address 1D3qX1HJSqhrASuthMyPsdLTvMeb6VyYFx: 429
+2025-06-26 11:55:42,514 - INFO - Generated address: 1D3qX1HJSqhrASuthMyPsdLTvMeb6VyYFx with private key: 4afcaed11c8291f2629c32915f1e79f942d643b411ff6f01854e76b5f81b8590 and balance: 0.0 BTC
+2025-06-26 11:55:44,989 - ERROR - Error checking balance for address 18GHgJEokFSyWVTk3TTLsPVt9qimi51ZS3: 429
+2025-06-26 11:55:45,005 - ERROR - Error checking balance for address 1DfaUttxYNyQpDRYUxBZS5kBTATZzutKv8: 429
+2025-06-26 11:55:45,013 - INFO - Generated address: 18GHgJEokFSyWVTk3TTLsPVt9qimi51ZS3 with private key: 147fcd9b404c0fafdf4746088e7eab1361ea2dc024ff2a046df6e12f1df724a1 and balance: 0.0 BTC
+2025-06-26 11:55:45,032 - INFO - Generated address: 1DfaUttxYNyQpDRYUxBZS5kBTATZzutKv8 with private key: a44e0c3232872aa51c173612f8a9d6dd5d3ff384c6a5f9b2907c786e8b0a8593 and balance: 0.0 BTC
+2025-06-26 11:55:45,136 - ERROR - Error checking balance for address 18FMVqvLpCkq3s8cKvqsgQLcPb79VeJGMP: 429
+2025-06-26 11:55:45,162 - INFO - Generated address: 18FMVqvLpCkq3s8cKvqsgQLcPb79VeJGMP with private key: dedf95994964a69baf6f78b40b14a59a845d02bf4a7c5e384e9e05575f9a8205 and balance: 0.0 BTC
+2025-06-26 11:55:45,617 - ERROR - Error checking balance for address 18pP3Yb6fT4Ho9umF1zZ4E3tbZENgyu6Yj: 429
+2025-06-26 11:55:45,958 - ERROR - Error checking balance for address 1Y46KhRbuqCpYiprFHarvah5XCSbNHzoi: 429
+2025-06-26 11:55:46,936 - ERROR - Error checking balance for address 1JnUUEsqRUZbE7anVKpgt1zvpHEZtFtkqx: 429
+2025-06-26 11:55:46,960 - ERROR - Error checking balance for address 15skMumDqWWW6QXLwLym6fLMaDCWj38fcY: 429
+2025-06-26 11:55:47,013 - ERROR - Error checking balance for address 17oqWtzjR7HG4gCqHVQasvvmVqzSmVgYHU: 429
+2025-06-26 11:55:47,330 - ERROR - Error checking balance for address 13sCAPCEi6DpbRjdzjtXLHJ9bpoi7A81bJ: 429
+2025-06-26 11:55:47,565 - ERROR - Error checking balance for address 1KC8ebek48rfejQyNrLo4R9N2w1fuK6MCW: 429
+2025-06-26 11:55:47,603 - ERROR - Error checking balance for address 17qYLiztrjfeJyk1W8S5YWwye5CFjvrQua: 429
+2025-06-26 11:55:48,145 - ERROR - Error checking balance for address 169yPFgUNNaacFV93ihLejZV4NLqA9F17B: 429
+2025-06-26 11:55:53,726 - ERROR - Error checking balance for address 1BjRVjxHStKeSwroR648ojxzbmAgaW6VbE: 429
